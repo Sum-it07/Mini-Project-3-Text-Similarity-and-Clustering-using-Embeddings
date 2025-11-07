@@ -60,16 +60,16 @@ This project explores **text similarity** and **unsupervised clustering** using 
   ```
 3. Run the notebook:
   ```bash
-jupyter notebook Mini_project3.ipynb
+jupyter notebook Mini-Project-3-Text-Similarity-and-Clustering-using-Embeddings.ipynb
   ```
 
 ## Key Functions
 
-cosine_score(text1, text2) → Computes similarity between two texts.
+- cosine_score(text1, text2) → Computes similarity between two texts.
 
-top_k_similar_sentences(embedding_matrix, query_text, k) → Finds the top k similar sentences.
+- top_k_similar_sentences(embedding_matrix, query_text, k) → Finds the top k similar sentences.
 
-K-Means model → Clusters the embeddings into meaningful groups.
+- K-Means model → Clusters the embeddings into meaningful groups.
 
 ## Author
 
